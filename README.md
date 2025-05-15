@@ -1,0 +1,1 @@
+foi um projeto amador de aprendizagem, possiveis soluçoes seria melhoar a interface adicionar um banco de dados mudar a forma como sao selecionados o lanche um resumo do pedido formas mais eficiente do pedido, enfim da uma bosta
